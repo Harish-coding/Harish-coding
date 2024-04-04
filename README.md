@@ -30,4 +30,3 @@
 
 [![Harish-coding's GitHub | Stats](https://stats.quine.sh/Harish-coding/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harish-coding)
 
-https://github-read-me-harishs-projects-a2afef83.vercel.app/
