@@ -26,7 +26,6 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-read-me-harishs-projects-a2afef83.vercel.app/api/top-langs/?username=harish-coding&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harish-coding's GitHub | Stats](https://stats.quine.sh/Harish-coding/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harish-coding)
 
