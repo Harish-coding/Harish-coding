@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harish</h1>
+<h1 align="center">Hello there 👋, I'm Harish</h1>
 <h3 align="center">A passionate coder and product manager based in Singapore</h3>
 
 - 🔭 I’m currently working on **Static Program Analyser and Project RICE**
