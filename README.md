@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://www.harish-portfolio.com](https://www.harish-portfolio.com)
+- 👨‍💻 All of my projects are available at [www.harish-portfolio.com](https://www.harish-portfolio.com)
 
-- 📝 I regularly write articles on [https://medium.com/@harishsa2002](https://medium.com/@harishsa2002)
+- 📝 I regularly write articles on [medium](https://medium.com/@harishsa2002)
 
 - 📫 How to reach me **harish_sa@u.nus.edu**
 
-- 📄 Know about my experiences [https://www.harish-portfolio.com/view-my-resume](https://www.harish-portfolio.com/view-my-resume)
+- 📄 View my [Resume](https://www.harish-portfolio.com/view-my-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
